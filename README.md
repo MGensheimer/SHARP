@@ -9,7 +9,9 @@ Direct questions to michael.gensheimer@gmail.com
 
 The code was tested in MATLAB R2012b in Linux. It requires the Image Processing Toolbox and Sameer Agarwal's free Spectral Clustering Toolbox, available here: http://homes.cs.washington.edu/~sagarwal/code.html
 
-To install, simply add the SHARP and Spectral Clustering Toolbox directories to the MATLAB path.
+To calculate Haralick texture features (one of the comparison methods mentioned in the paper), install Avinash Uppuluri's GLCM_Features4.m, available here: http://www.mathworks.com/matlabcentral/fileexchange/22354-glcmfeatures4-m-vectorized-version-of-glcmfeatures1-m-with-code-changes
+
+To install, simply add the code and toolbox directories to the MATLAB path.
 
 ### How to use
 
